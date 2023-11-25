@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.half{
+    background-color: #1f2937;
+}
+
+.logo{
+    width: 50px;
+}
+
+.top-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menus{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 200px;
+}
+
+.about, .secondary{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero{
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.second-menu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.cats{
+   max-width: 50%;
+   margin-bottom: 100px;
+}
+
+.left-side{
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    width: 380px;
+}
+
+.right-side{
+    display: flex;
+    justify-content: space-around;
+}
+
+.register{
+    width: fit-content;
+    background-color: #3882f6;
+    font-size: 18px;
+    padding: 5px 15px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.link{
+    color: #f9faf8;
+    text-decoration: none;
+}
+
+.bacon, .mango{
+    width: 150px;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+.pic{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pic-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.random-info{
+    margin-bottom: 100px;
+}
+
+.qoute-conatiner{
+    background-color: #e5e7eb;
+}
+
+.inspiring{
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+}
+
+.author{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    margin-bottom: 150px;
+}
+
+.register-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.register-child{
+    display: flex;
+    background-color: #3882f6;
+    width: 700px;
+    justify-content: space-around;
+    padding: 40px 60px;
+    align-items: center;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.call-h{
+    font-size: 24px;
+    color:#e5e7eb;
+}
+
+.sign-up{
+    color: #e5e7eb;
+}
+
+.copy-container{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    padding: 15px 30px;
+}
